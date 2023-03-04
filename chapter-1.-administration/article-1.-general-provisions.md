@@ -1,7 +1,5 @@
 # Article 1. General Provisions
 
-###
-
 ## 1-101. Code designated.
 
 **The chapters, articles and sections herein shall constitute and be designated as “The Code of the City of Downs, Kansas,” and may be so cited. The Code may also be cited as the “Downs City Code.”**
